@@ -1,0 +1,6 @@
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+altair>=5.0
+pytest>=7.0   # dev: run `python -m pytest -q` for the analytics unit tests
